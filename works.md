@@ -15,6 +15,6 @@ __Webinars__:
 - [Python Programming for Machine Learning](https://software.intel.com/en-us/videos/python-programming-for-machine-learning) (December 2016)
 
 __Papers__:
-- Thesis:
-  - [A demonstration of applying alloy to mechanical synthesis of electromechanical systems](http://catalog.lib.utexas.edu/search%7ES29?/X(mechanical+synthesis)&searchscope=29&SORT=D/X(mechanical+synthesis)&searchscope=29&SORT=D&SUBKEY=(mechanical+synthesis)/1%2C498%2C498%2CB/frameset&FF=X(mechanical+synthesis)&searchscope=29&SORT=D&1%2C1%2C) (December 2015)
+- Thesis: [A demonstration of applying alloy to mechanical synthesis of electromechanical systems](http://catalog.lib.utexas.edu/search%7ES29?/X(mechanical+synthesis)&searchscope=29&SORT=D/X(mechanical+synthesis)&searchscope=29&SORT=D&SUBKEY=(mechanical+synthesis)/1%2C498%2C498%2CB/frameset&FF=X(mechanical+synthesis)&searchscope=29&SORT=D&1%2C1%2C) (December 2015)
   - [PDF Version](https://repositories.lib.utexas.edu/bitstream/handle/2152/34587/LIU-MASTERSREPORT-2015.pdf)
+- Paper: [Logical node mapping algorithm for heterogeneous distributed systems](https://github.com/triskadecaepyon/DF_RoleMatrix/blob/master/Documentation/Final_Report.pdf) (December 2015)
