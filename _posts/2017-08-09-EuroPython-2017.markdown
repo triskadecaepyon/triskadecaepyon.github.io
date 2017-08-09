@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "EuroPython 2017"
+date:   2017-08-09 09:46:06 -0600
+categories: jekyll update
+---
+
+EuroPython 2017 was quite an adventure, and it was an honor to present my two talks (one talk and one 3 hour tutorial) to the EU Python community.  The types of problems dealt with and the focus in Python is quite different from the US, and catering to the common issues seen in the workloads was a great learning experience.
+
+Getting the chance to explore both Munich, Germany and Rimini, Italy was the opportunity of a lifetime, and the path there wasn't easy.  Logistic difficulties nearly the entire trip, yet the beauty of the cities and the people helped to balance the difficulties out.  One of the coolest things to see was the proximity of national science and physics labs in the EU--because of how close all the countries are (in comparison to the sprawl of the US), more lab-to-lab collaborations are present than in the US.  This in turn accelerates the type of work being done in the region, and shifts focus to some of the harder problems in the scientific world.
+
+Of course, another fun aspect was exploring the cities and countries of the EU.  As my second trip the EU, I got to see how different they were to both the US and other countries I've traveled to.  Deep roots in tradition and culture, they help put into perspective some of the traditions I see in the US.
+
+I look forward to the next journey, wherever the next conference takes me.
