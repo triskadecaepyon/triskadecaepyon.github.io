@@ -9,6 +9,7 @@ __Presentations and Workshops__:
 - EuroPython 2017 (Rimini, Italy)
   - [A Hands-on approach to tuning Python applications for performance](https://ep2017.europython.eu/conference/talks/a-hands-on-approach-to-tuning-python-applications-for-performance), presented at EuroPython 2017 in Rimini, Italy to over 70 attendees. Created all of the 3-hour content and curriculum, and delivered in collaboration with the Barcelona Supercomputing Center, covering advanced Python vectorization techniques and code profiling.
   - [Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://ep2017.europython.eu/conference/talks/infrastructure-design-patterns-with-python-buildbot-and-linux-containers), presented at EuroPython 2017 in Rimini, Italy to over 100 attendees. Created and authored all content and methods displayed in presentation.
+    - [YouTube Link](https://www.youtube.com/watch?v=NlFuQT8tCGk&t=27962s)
 
 - PyCon 2017 (Portland, OR)
   - [Accelerating Python across the range of applications: the right tools for the job](https://us.pycon.org/2017/schedule/presentation/789/) (May 2017), presented
