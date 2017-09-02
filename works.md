@@ -18,8 +18,10 @@ __Presentations and Workshops__:
 
 
 __Webinars__:
+- [Achieving High-Performance Computing with the Intel® Distribution for Python*](https://software.seek.intel.com/ComputingDistributionForPython_Reg) (August 2017), a 1 hour webinar with over 166 attendees, showcasing some of the methods to achieve Python performance through different methods and frameworks.  Also presented on PyDAAL and the machine learning capabilities of the framework.  Created all content and delivered the majority of the webinar.
 - [Navigate Machine Learning with High Performance Python](http://infotech.report/view-events.aspx?EventID=1935) (February 2017), a 1 hour webinar held in February 2017 with over 450 attendees, highlighting the advanced Python techniques and purpose-built frameworks for machine learning. Created and delivered all content during the webinar.
 - [Python Programming for Machine Learning](https://software.intel.com/en-us/videos/python-programming-for-machine-learning) (December 2016), a 1 hour webinar held in December 2016 with over 200 attendees over advanced methods and specialized tools for machine learning in Python. Created and delivered all content during the webinar.
+  - [Video link](https://software.intel.com/en-us/videos/python-programming-for-machine-learning)
 
 __Papers__:
 - Thesis: [A demonstration of applying alloy to mechanical synthesis of electromechanical systems](http://catalog.lib.utexas.edu/search%7ES29?/X(mechanical+synthesis)&searchscope=29&SORT=D/X(mechanical+synthesis)&searchscope=29&SORT=D&SUBKEY=(mechanical+synthesis)/1%2C498%2C498%2CB/frameset&FF=X(mechanical+synthesis)&searchscope=29&SORT=D&1%2C1%2C) (December 2015), demonstrating the application of SAT-solving to that of synthesis and determining of mechanical and real world instances for manufacturing and design.
