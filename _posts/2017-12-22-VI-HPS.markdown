@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The VI-HPS conference"
+date:   2017-12-22 12:50:00 -0600
+categories: jekyll update
+---
+
+The Virtual Institute - High Productivity Supercomputing (VI-HPS) conference in Paris, France was a unique opportunity for me earlier this year.  Most of my conferences have stemmed around general Python or Machine Learning, but none that covered High Performance Computing (HPC).  The venue was one of the world's leading simulation facilities, the Commissariat à l’énergie atomique or __CEA__.  As Data science starts to converge towards HPC-style problems, managing one's environments and workflows becomes paramount with the amount of mixed Python and C code that has started to occur in compute centers around the globe.
+
+The attendees were shown a significant amount of new material from other visiting HPC Universities and organizations, but the newest material would be the information I was to showcase-achieving High Performance Python in Modern HPC workflows.  With the amount of recent graduates fluent in Python, to the modern frameworks that allow for easier problem setup, Python has become integral into HPC's future.  I've had the chance to work with many advanced Python workflows in HPC through relationships with compute centers and former consulting.
+
+Seeing the reaction from the attendees was promising.  With some people at an advanced level (and the rest of them new to Python but fluent at C), much of the advice and guidance hit the mark.  As new challenges arrive for those working with legacy C codebases, the integration of Python and C applications in the compute center are become the next big challenge in HPC.
+
+The slide deck and material is available on my Works/Publications page.
