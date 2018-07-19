@@ -6,6 +6,9 @@ permalink: /works/
 
 __Presentations and Workshops__:
 
+- SciPy 2018 (Austin, TX)
+  - [Addressing Multithreading & Multiprocessing in Transparent & Pythonic Methods](https://www.youtube.com/watch?v=HKjM3peINtw) (_July 2018_), presented to 200+ attendees at the SciPy 2018 Conference.  Created the presentation content with the demo produced by the co-presenter.
+    - [__Watch Video on YouTube__](https://www.youtube.com/watch?v=HKjM3peINtw)
 - Virtual Institute \- High Productivity Supercomputing (Paris, France)
   - [Achieving High Performance Python* in Modern HPC Workflows](http://www.vi-hps.org/training/tws/tw26.html) (_October 2017_), presented to many of Western Europe's HPC developers and scientists at the TERATEC Campus of Commissariat à l'énergie atomique in Paris, FR.  Created all content and delivered content to a class of over 30 people (workshop max of 30 attendees).
     - [Workshop slides](http://www.vi-hps.org/upload/material/tw26/Intel_Python.pdf)
