@@ -6,10 +6,16 @@ permalink: /works/
 
 __Presentations and Workshops__:
 
+- Rocky Mountain Advanced Computing Consortium (RMACC) 2018 (Boulder, CO)
+  - [Achieving High-Performance Python in Modern HPC Workflows](https://rmacc2018hpcsymposium.sched.com/event/FC9z/achieving-high-performance-python-in-modern-hpc-workflow?iframe=no&w=100%&sidebar=yes&bg=no) (_August 2018_), presented to 30+ attendees on Modern HPC techniques with Python, showcasing many of the advanced vectorization tools to those in simulation and physics modeling.  Created all the presentation content and delivered the workshop solo.
+- EuroPython 2018 (Edinburgh, UK)
+  - [Addressing Multithreading & Multiprocessing in Transparent & Pythonic Ways](https://ep2018.europython.eu/conference/talks/addressing-multithreading-and-multiprocessing-in-transparent-and-pythonic-ways) (_August 2018_), presented to 170+ attendees at the EuroPython 2018 Conference.  Created all the presentation content and delivered the talk solo.
+    - [__Watch Video on YouTube__](https://youtu.be/x5tcYO-SVnc?t=3m13s)
+  - [Best Practices for a blazing fast Machine Learning Pipeline](https://ep2018.europython.eu/conference/talks/best-practices-blazing-fast-machine-learning-pipeline) (_August 2018_), a 3-hour workshop presented to EuroPython's Machine Learning developers on the best practices of end-to-end machine learning acceleration methods, preprocessing flows, and scaling out methods.  Created all presentation content and delivered solo to a class of 75+ attendees.
 - SciPy 2018 (Austin, TX)
   - [Addressing Multithreading & Multiprocessing in Transparent & Pythonic Methods](https://www.youtube.com/watch?v=HKjM3peINtw) (_July 2018_), presented to 200+ attendees at the SciPy 2018 Conference.  Created the presentation content with the demo produced by the co-presenter.
     - [__Watch Video on YouTube__](https://www.youtube.com/watch?v=HKjM3peINtw)
-- Virtual Institute \- High Productivity Supercomputing (Paris, France)
+- Virtual Institute \- High Productivity Supercomputing 2017 (Paris, France)
   - [Achieving High Performance Python* in Modern HPC Workflows](http://www.vi-hps.org/training/tws/tw26.html) (_October 2017_), presented to many of Western Europe's HPC developers and scientists at the TERATEC Campus of Commissariat à l'énergie atomique in Paris, FR.  Created all content and delivered content to a class of over 30 people (workshop max of 30 attendees).
     - [Workshop slides](http://www.vi-hps.org/upload/material/tw26/Intel_Python.pdf)
 - Stanford University (Stanford, CA)
