@@ -39,7 +39,9 @@ __Webinars__:
 - [Python Programming for Machine Learning](https://software.intel.com/en-us/videos/python-programming-for-machine-learning) (_December 2016_), a 1 hour webinar held in December 2016 with over 200 attendees over advanced methods and specialized tools for machine learning in Python. Created and delivered all content during the webinar.
   - [__Video link__](https://software.intel.com/en-us/videos/python-programming-for-machine-learning)
 
-__Papers__:
+__Papers and Publications__:
+- Magazine: [Parallelism in Python* using Numba*](https://software.intel.com/en-us/download/parallel-universe-magazine-issue-36-april-2019), Parallel Universe Magazine #36 (_April 2019_), an article giving an in-depth look at utilizing Numba in everyday codebases and achieving parallelism with different code pattern.
+- Magazine: [Parallelism in Python*](https://software.intel.com/en-us/download/parallel-universe-magazine-issue-35-january-2019), Parallel Universe Magazine #35 (_January 2019_), an article dispelling the myths of Python parallelism and the tools to achieve them.
 - Thesis: [A demonstration of applying alloy to mechanical synthesis of electromechanical systems](http://catalog.lib.utexas.edu/search%7ES29?/X(mechanical+synthesis)&searchscope=29&SORT=D/X(mechanical+synthesis)&searchscope=29&SORT=D&SUBKEY=(mechanical+synthesis)/1%2C498%2C498%2CB/frameset&FF=X(mechanical+synthesis)&searchscope=29&SORT=D&1%2C1%2C) (_December 2015_), demonstrating the application of SAT-solving to that of synthesis and determining of mechanical and real world instances for manufacturing and design.
   - [PDF Version](https://repositories.lib.utexas.edu/bitstream/handle/2152/34587/LIU-MASTERSREPORT-2015.pdf)
 - Paper: [Logical node mapping algorithm for heterogeneous distributed systems](https://github.com/triskadecaepyon/DF_RoleMatrix/blob/master/Documentation/Final_Report.pdf) (_December 2015_), using Boolean satisfiability to determine role assignments to computing for heterogeneous distributed systems. Led research and publication efforts.
