@@ -4,8 +4,9 @@ title: Works/Publications
 permalink: /works/
 ---
 
-__Presentations and Workshops__:
-
+__Keynotes, Presentations, and Workshops__:
+- EuroSciPy 2019 Keynote (Bilbao, Spain)
+  - [HPC and Python: Intel’s work in enabling the scientific computing community](https://www.euroscipy.org/2019/) (_September 2019_), presented a keynote to 350 attendees on Intel's Open Source work in the Python community, highlighting the topic of culture change in Open Source, HPC, and for Intel itself.  The presentation covered the best methods found for contributing to Open Source as well as a method to generating culture change within one's own organization.
 - Rocky Mountain Advanced Computing Consortium (RMACC) 2018 (Boulder, CO)
   - [Achieving High-Performance Python in Modern HPC Workflows](https://rmacc2018hpcsymposium.sched.com/event/FC9z/achieving-high-performance-python-in-modern-hpc-workflow?iframe=no&w=100%&sidebar=yes&bg=no) (_August 2018_), presented to 30+ attendees on Modern HPC techniques with Python, showcasing many of the advanced vectorization tools to those in simulation and physics modeling.  Created all the presentation content and delivered the workshop solo.
 - EuroPython 2018 (Edinburgh, UK)
@@ -33,10 +34,12 @@ __Presentations and Workshops__:
 
 
 __Webinars__:
-- [Achieving High-Performance Computing with the Intel® Distribution for Python*](https://software.seek.intel.com/ComputingDistributionForPython_Reg) (_August 2017_), a 1 hour webinar with over 166 attendees, showcasing some of the methods to achieve Python performance through different methods and frameworks.  Also presented on PyDAAL and the machine learning capabilities of the framework.  Created all content and delivered the majority of the webinar.
+- [Machine Learning 101 with Python and daal4py](https://techdecoded.intel.io/essentials/machine-learning-101-with-python-and-daal4py/#gs.3vuhpq) (_August 2019_), a 1-hour webinar with 400 attendees on an introduction to daal4py and how to utilize it in a standard machine learning workflow, from preprocessing to prediction.  Created and delivered all content during the webinar.
+  - [__Video link__](https://techdecoded.intel.io/essentials/machine-learning-101-with-python-and-daal4py/#gs.3vuhpq)
+- [Achieving High-Performance Computing with the Intel® Distribution for Python*](https://software.seek.intel.com/ComputingDistributionForPython_Reg) (_August 2017_), a 1-hour webinar with over 166 attendees, showcasing some of the methods to achieve Python performance through different methods and frameworks.  Also presented on PyDAAL and the machine learning capabilities of the framework.  Created all content and delivered the majority of the webinar.
   - [__Video link__](https://software.intel.com/en-us/videos/achieving-high-performance-computing-with-the-intel-distribution-for-python)
-- [Navigate Machine Learning with High Performance Python](http://infotech.report/view-events.aspx?EventID=1935) (_February 2017_), a 1 hour webinar held in February 2017 with over 450 attendees, highlighting the advanced Python techniques and purpose-built frameworks for machine learning. Created and delivered all content during the webinar.
-- [Python Programming for Machine Learning](https://software.intel.com/en-us/videos/python-programming-for-machine-learning) (_December 2016_), a 1 hour webinar held in December 2016 with over 200 attendees over advanced methods and specialized tools for machine learning in Python. Created and delivered all content during the webinar.
+- [Navigate Machine Learning with High Performance Python](http://infotech.report/view-events.aspx?EventID=1935) (_February 2017_), a 1-hour webinar held in February 2017 with over 450 attendees, highlighting the advanced Python techniques and purpose-built frameworks for machine learning. Created and delivered all content during the webinar.
+- [Python Programming for Machine Learning](https://software.intel.com/en-us/videos/python-programming-for-machine-learning) (_December 2016_), a 1-hour webinar held in December 2016 with over 200 attendees over advanced methods and specialized tools for machine learning in Python. Created and delivered all content during the webinar.
   - [__Video link__](https://software.intel.com/en-us/videos/python-programming-for-machine-learning)
 
 __Papers and Publications__:
@@ -45,3 +48,6 @@ __Papers and Publications__:
 - Thesis: [A demonstration of applying alloy to mechanical synthesis of electromechanical systems](http://catalog.lib.utexas.edu/search%7ES29?/X(mechanical+synthesis)&searchscope=29&SORT=D/X(mechanical+synthesis)&searchscope=29&SORT=D&SUBKEY=(mechanical+synthesis)/1%2C498%2C498%2CB/frameset&FF=X(mechanical+synthesis)&searchscope=29&SORT=D&1%2C1%2C) (_December 2015_), demonstrating the application of SAT-solving to that of synthesis and determining of mechanical and real world instances for manufacturing and design.
   - [PDF Version](https://repositories.lib.utexas.edu/bitstream/handle/2152/34587/LIU-MASTERSREPORT-2015.pdf)
 - Paper: [Logical node mapping algorithm for heterogeneous distributed systems](https://github.com/triskadecaepyon/DF_RoleMatrix/blob/master/Documentation/Final_Report.pdf) (_December 2015_), using Boolean satisfiability to determine role assignments to computing for heterogeneous distributed systems. Led research and publication efforts.
+
+__Press/Interviews__:
+ - Interview: [insideBIGDATA: Interview: Terry Deem and David Liu at Intel](https://insidebigdata.com/2019/09/03/interview-terry-deem-and-david-liu-at-intel/)
