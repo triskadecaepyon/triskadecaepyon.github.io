@@ -4,22 +4,26 @@ title: Works/Publications
 permalink: /works/
 ---
 
-__Keynotes, Presentations, and Workshops__:
-- EuroSciPy 2019 Keynote (Bilbao, Spain)
+__Notable Keynotes, Presentations, and Workshops__:
+- HPCDevCon 2019 (Denver, CO)
+  - [Fast and Scalable Data Analytics](https://techdecoded.intel.io/essentials/fast-scalable-data-analytics-machine-learning-with-intel-distribution-for-python/#gs.yejgf2) (__November 2019__, a presentation on end-to-end scalable analytics with the latest tools available from Intel to bridge techniques from laptop to cluster deployments.
+  - [__Watch Video on Website__](https://techdecoded.intel.io/essentials/fast-scalable-data-analytics-machine-learning-with-intel-distribution-for-python/#gs.yejgf2)
+- __EuroSciPy 2019 Keynote (Bilbao, Spain)__
   - [HPC and Python: Intel’s work in enabling the scientific computing community](https://www.euroscipy.org/2019/) (_September 2019_), presented a keynote to 350 attendees on Intel's Open Source work in the Python community, highlighting the topic of culture change in Open Source, HPC, and for Intel itself.  The presentation covered the best methods found for contributing to Open Source as well as a method to generating culture change within one's own organization.
+    - [__Watch Video on YouTube__](https://www.youtube.com/watch?v=kCnhw97PETM)
 - Rocky Mountain Advanced Computing Consortium (RMACC) 2018 (Boulder, CO)
   - [Achieving High-Performance Python in Modern HPC Workflows](https://rmacc2018hpcsymposium.sched.com/event/FC9z/achieving-high-performance-python-in-modern-hpc-workflow?iframe=no&w=100%&sidebar=yes&bg=no) (_August 2018_), presented to 30+ attendees on Modern HPC techniques with Python, showcasing many of the advanced vectorization tools to those in simulation and physics modeling.  Created all the presentation content and delivered the workshop solo.
-- EuroPython 2018 (Edinburgh, UK)
+- __EuroPython 2018 (Edinburgh, UK)__
   - [Addressing Multithreading & Multiprocessing in Transparent & Pythonic Ways](https://ep2018.europython.eu/conference/talks/addressing-multithreading-and-multiprocessing-in-transparent-and-pythonic-ways) (_August 2018_), presented to 170+ attendees at the EuroPython 2018 Conference.  Created all the presentation content and delivered the talk solo.
     - [__Watch Video on YouTube__](https://youtu.be/x5tcYO-SVnc?t=3m13s)
   - [Best Practices for a blazing fast Machine Learning Pipeline](https://ep2018.europython.eu/conference/talks/best-practices-blazing-fast-machine-learning-pipeline) (_August 2018_), a 3-hour workshop presented to EuroPython's Machine Learning developers on the best practices of end-to-end machine learning acceleration methods, preprocessing flows, and scaling out methods.  Created all presentation content and delivered solo to a class of 75+ attendees.
-- SciPy 2018 (Austin, TX)
+- __SciPy 2018 (Austin, TX)__
   - [Addressing Multithreading & Multiprocessing in Transparent & Pythonic Methods](https://www.youtube.com/watch?v=HKjM3peINtw) (_July 2018_), presented to 200+ attendees at the SciPy 2018 Conference.  Created the presentation content with the demo produced by the co-presenter.
     - [__Watch Video on YouTube__](https://www.youtube.com/watch?v=HKjM3peINtw)
 - Virtual Institute \- High Productivity Supercomputing 2017 (Paris, France)
   - [Achieving High Performance Python* in Modern HPC Workflows](http://www.vi-hps.org/training/tws/tw26.html) (_October 2017_), presented to many of Western Europe's HPC developers and scientists at the TERATEC Campus of Commissariat à l'énergie atomique in Paris, FR.  Created all content and delivered content to a class of over 30 people (workshop max of 30 attendees).
     - [Workshop slides](http://www.vi-hps.org/upload/material/tw26/Intel_Python.pdf)
-- Stanford University (Stanford, CA)
+- __Stanford University (Stanford, CA)__
   - [High performance math, science, and engineering kernels using the Intel® Distribution for Python* and Intel® Performance Libraries](https://www.youtube.com/watch?v=aafE2yHgeGI&index=3&list=PLOoGUrwjS08MypOLt_udsrUTwudqLRUq2) (_August 2017_), presented as a component of the _Stanford ME344_ curriculum in Stanford, CA.  Created all content and presented to a class of over 60 people.
     - [__Watch Video on YouTube__](https://www.youtube.com/watch?v=aafE2yHgeGI&index=3&list=PLOoGUrwjS08MypOLt_udsrUTwudqLRUq2)
 - EuroPython 2017 (Rimini, Italy)
@@ -50,4 +54,5 @@ __Papers and Publications__:
 - Paper: [Logical node mapping algorithm for heterogeneous distributed systems](https://github.com/triskadecaepyon/DF_RoleMatrix/blob/master/Documentation/Final_Report.pdf) (_December 2015_), using Boolean satisfiability to determine role assignments to computing for heterogeneous distributed systems. Led research and publication efforts.
 
 __Press/Interviews__:
- - Interview: [insideBIGDATA: Interview: Terry Deem and David Liu at Intel](https://insidebigdata.com/2019/09/03/interview-terry-deem-and-david-liu-at-intel/)
+ - SuperComputing Conference: [Radio Spectrum Machine Learning Demo with Bokeh and Intel tools](https://twitter.com/IntelDevTools/status/1217499755301031937) (November 2019)
+ - Interview: [insideBIGDATA: Interview: Terry Deem and David Liu at Intel](https://insidebigdata.com/2019/09/03/interview-terry-deem-and-david-liu-at-intel/)n (August 2019)

@@ -7,6 +7,7 @@ permalink: /projects/
 This is the a page to document to technical and academic work.
 
 __Open Source__:
+- [Radio Predict Demo](https://github.com/triskadecaepyon/radio_predict_demo) - a custom-built Bokeh demo showcasing live machine learning training with a GUI in a streaming configuration for prediction and anomaly detection.
 - [PyWorkout Toolkit](https://github.com/triskadecaepyon/pyworkout-toolkit)-a toolkit for data scientists in the world of fitness and sports
 - [IoT Joule Auto Demo](https://github.com/triskadecaepyon/iot_joule_auto_demo)-a project demonstrating telemetry and processing on a quad-core IoT system in Python
 
