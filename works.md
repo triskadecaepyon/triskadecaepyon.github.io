@@ -6,8 +6,8 @@ permalink: /works/
 
 __Notable Keynotes, Presentations, and Workshops__:
 - HPCDevCon 2019 (Denver, CO)
-  - [Fast and Scalable Data Analytics](https://techdecoded.intel.io/essentials/fast-scalable-data-analytics-machine-learning-with-intel-distribution-for-python/#gs.yejgf2) (__November 2019__, a presentation on end-to-end scalable analytics with the latest tools available from Intel to bridge techniques from laptop to cluster deployments.
-  - [__Watch Video on Website__](https://techdecoded.intel.io/essentials/fast-scalable-data-analytics-machine-learning-with-intel-distribution-for-python/#gs.yejgf2)
+  - [Fast and Scalable Data Analytics](https://techdecoded.intel.io/essentials/fast-scalable-data-analytics-machine-learning-with-intel-distribution-for-python/#gs.yejgf2) (_November 2019_), a presentation on end-to-end scalable analytics with the latest tools available from Intel to bridge techniques from laptop to cluster deployments.
+    - [__Watch Video on Website__](https://techdecoded.intel.io/essentials/fast-scalable-data-analytics-machine-learning-with-intel-distribution-for-python/#gs.yejgf2)
 - __EuroSciPy 2019 Keynote (Bilbao, Spain)__
   - [HPC and Python: Intel’s work in enabling the scientific computing community](https://www.euroscipy.org/2019/) (_September 2019_), presented a keynote to 350 attendees on Intel's Open Source work in the Python community, highlighting the topic of culture change in Open Source, HPC, and for Intel itself.  The presentation covered the best methods found for contributing to Open Source as well as a method to generating culture change within one's own organization.
     - [__Watch Video on YouTube__](https://www.youtube.com/watch?v=kCnhw97PETM)
